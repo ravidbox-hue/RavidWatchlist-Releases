@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/ravidbox-hue/RavidWatchlist-Releases/releases/download/v0.4.3-11/MY-Watchlist-0.4.3-11.apk",
-  "sha256": "b0d38147a09f508d0b3803cf663001c92fa8144827bc16fe5d7b821fbc307848",
-  "releaseNotes": "MY Watchlist 0.4.3 (11)\n\nRestores the accepted Premium TV UI before the last responsive/scaling pass.\nAdds optional startup updates and a Settings update check, download verification and Android-confirmed installation.\n\nBootstrap build: install this APK over the existing app once to enable future in-app updates. This release preserves the existing Android debug signing identity; a production release signing configuration has not been introduced.",
-  "sizeBytes": 23405082
+  "versionCode": 12,
+  "versionName": "0.4.4",
+  "apkUrl": "https://github.com/ravidbox-hue/RavidWatchlist-Releases/releases/download/v0.4.4-12/MY-Watchlist-0.4.4-12.apk",
+  "sha256": "779611834882997355b45e4dff4688e978c7e4db673e1024c04967fc73b3a135",
+  "releaseNotes": "MY Watchlist 0.4.4 (12)\n\nהצגת גודל קובץ העדכון לפני ההורדה.\nהורדה והתקנה בפעולה אחת, עם אימות SHA-256 וזהות החתימה לפני פתיחת מתקין Android.\nשיפור בדיקות העדכון בעת הפעלה וכיסוי תקלות רשת ואימות קובץ.\n\nהעדכון שומר על החתימה הקיימת. Android עדיין מבקש אישור התקנה רגיל.",
+  "sizeBytes": 23405078
 }
